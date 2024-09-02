@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "694246856445",
+    "firebase_url": "https://messenger-4d8bb-default-rtdb.firebaseio.com",
+    "project_id": "messenger-4d8bb",
+    "storage_bucket": "messenger-4d8bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694246856445:android:e90acbfa8dc99830699094",
+        "android_client_info": {
+          "package_name": "com.example.blinkchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzYwRZd5nKk_mbTNRJxJVQ_GZUiY1VDWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694246856445:android:2d9792700f26efde699094",
+        "android_client_info": {
+          "package_name": "com.example.messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzYwRZd5nKk_mbTNRJxJVQ_GZUiY1VDWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

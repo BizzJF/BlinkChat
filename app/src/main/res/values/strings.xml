@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BlinkChat</string>
+    <string name="your_email">Your email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="register">Register</string>
+    <string name="registration">Registration</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="how_old_are_you">How old are you?</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="heading_forgot_password">Forgot Password?</string>
+    <string name="reset_your_email">Your email:</string>
+    <string name="reset_password">RESET PASSWORD</string>
+    <string name="item_logout">Logout</string>
+    <string name="messenger">Messenger</string>
+    <string name="reset_link_sent">The reset link has been successfully sent</string>
+    <string name="type_your_message">Type your message</string>
+</resources>
